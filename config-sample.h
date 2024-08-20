@@ -1,4 +1,6 @@
 // Copy this file and save as config.php
+const char * sketchName = "RollerShutters";
+const char * sketchVersion = "28.1";
 
 RollerShutter blinds[] = {
   {1, 21, 41, 61, A15, A14, MP_PIN_NONE, 24, 22, 21, 20, 21, 50, 0, "Kuchnia"},
